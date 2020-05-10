@@ -1,1 +1,1 @@
-# Source code files for Cloud Native Sample
+# Source code files for Cloud Native Sample.
